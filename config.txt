@@ -10,8 +10,6 @@
 "user": ["ouvFy6MFytcHNr1Ns1SuFHr2aVsg"],
 
 # 信息配置
-#和风天气apikey
-"weather_key":"	38f9b948b4eb441ca86434270e8ccd6d",
 # 所在省份
 "province": "浙江",
 # 所在城市
